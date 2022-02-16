@@ -1,0 +1,6 @@
+159889;Matematica;
+123456;Fisica;
+456789;Programacion I;
+988765;Programacion II;
+654131;Estadistica;
+951789;Org Empresarial;
